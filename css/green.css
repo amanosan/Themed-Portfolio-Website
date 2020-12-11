@@ -1,0 +1,24 @@
+:root {
+	--main-color: #515a48;
+	--secondary-color: #606b56;
+
+	--border-color: #161914;
+
+	--primary-text: #ffffff;
+	--secondary-text: #eeeeee;
+
+	--font-heading: "Russo One", sans-serif;
+	--font-body: "Roboto Mono", monospace;
+
+	--bs: 0.25em 0.25em 0.75em rgba(0, 0, 0, 0.25),
+		0.125em 0.125em 0.25em rgba(0, 0, 0, 0.15);
+
+	--theme-dot-border: #ffffff;
+	--project-border: #ffffff;
+
+	--preview-bg: rgba(81, 90, 72, 0.8);
+	--preview-shadow: #2a2f25;
+
+	--btn-color: #669966;
+	--link-color: #669966;
+}
